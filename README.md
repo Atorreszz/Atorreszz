@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Arthur Torres - Back-end C# e .NET em formação">
+  <img src="./assets/banner.svg" width="100%" alt="Arthur Torres — Back-end C#/.NET, Python e bancos de dados">
 </p>
 
 <h1 align="center">Olá, eu sou Arthur Torres 👋</h1>
 
 <p align="center">
-  <strong>Back-end C#/.NET em formação</strong>
+  <strong>Back-end C#/.NET • APIs • Sistemas Web</strong>
 </p>
 
 <p align="center">
-  Aprendendo como sistemas back-end funcionam enquanto construo projetos reais.
+  <samp>Código claro, projetos reais e evolução a cada commit.</samp>
 </p>
 
 <p align="center">
@@ -25,28 +25,34 @@
 
 ## 👨‍💻 Sobre mim
 
-Sou estudante de **Sistemas de Informação** e estou construindo minha base em desenvolvimento de software com foco em **back-end C#/.NET**.
+<img align="right" width="285" src="./assets/batman-dev.svg" alt="Ilustração monocromática do Batman programando">
 
-Meu principal projeto é o **Gueto Barbearia**. Nele, desenvolvi o front-end do fluxo de agendamento e agora estou evoluindo uma API em ASP.NET Core. Neste momento, estudo **SQL e PostgreSQL** para dar o próximo passo: substituir os dados em memória por persistência real.
+Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento **back-end C#/.NET**, construção de APIs e organização de regras de negócio.
 
-## 🚀 Agora
+Meu principal projeto é o **Gueto Barbearia**, um sistema de agendamento que reúne interface web e uma API em ASP.NET Core. O projeto transforma um fluxo real — escolher serviço, data e horário — em código, validações e endpoints.
 
-- 🔨 **Construindo:** [Gueto Barbearia](https://github.com/Atorreszz/gueto-barbearia)
-- ⚙️ **Praticando:** C#, ASP.NET Core Minimal APIs, REST, HTTP e JSON
-- 📚 **Aprendendo:** SQL e PostgreSQL
+Também trabalho com **Python**, **JavaScript**, **SQL** e **PostgreSQL**, conectando cada tecnologia a uma parte prática do desenvolvimento.
+
+### ⚡ Em foco
+
+- 🔨 **Projeto:** [Gueto Barbearia](https://github.com/Atorreszz/gueto-barbearia)
+- ⚙️ **Back-end:** C#, ASP.NET Core Minimal APIs, Python, REST, HTTP e JSON
+- 🗄️ **Dados:** SQL e PostgreSQL
 - 🎯 **Objetivo:** primeira oportunidade em desenvolvimento de software/back-end
+
+<br clear="right">
 
 ---
 
-## 💻 Tecnologias
+## 🧰 Tecnologias e ferramentas
 
 ### Back-end
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet&theme=dark" alt="C# e .NET">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,py&theme=dark" alt="C#, .NET e Python">
 </p>
 
-C#, .NET 10, ASP.NET Core Minimal APIs e Swagger/OpenAPI em nível inicial.
+C#, .NET 10, ASP.NET Core Minimal APIs, Python, REST, HTTP, JSON e Swagger/OpenAPI.
 
 ### Front-end
 
@@ -56,21 +62,21 @@ C#, .NET 10, ASP.NET Core Minimal APIs e Swagger/OpenAPI em nível inicial.
 
 HTML, CSS e JavaScript com DOM, eventos, formulários e validações.
 
-### Banco de dados - aprendendo agora
+### Banco de dados
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL">
 </p>
 
-Estudando SQL e PostgreSQL para aplicar a primeira persistência do Gueto Barbearia.
+SQL e PostgreSQL para modelagem e persistência dos dados do Gueto Barbearia.
 
 ### Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,rider&theme=dark" alt="Git, GitHub, Linux, VS Code e Rider">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,rider,webstorm&theme=dark" alt="Git, GitHub, Linux, VS Code, Visual Studio, Rider e WebStorm">
 </p>
 
-Git, GitHub, Linux, VS Code, JetBrains Rider e testes manuais de API com Swagger.
+Git, GitHub, Linux, VS Code, Visual Studio, JetBrains Rider, WebStorm e testes de API com Swagger.
 
 ---
 
@@ -82,19 +88,32 @@ Git, GitHub, Linux, VS Code, JetBrains Rider e testes manuais de API com Swagger
 ![Front-end](https://img.shields.io/badge/front--end-HTML%20%7C%20CSS%20%7C%20JavaScript-30363D?style=flat-square)
 ![Back-end](https://img.shields.io/badge/back--end-C%23%20%7C%20ASP.NET%20Core-30363D?style=flat-square)
 
-Sistema de agendamento para uma barbearia, desenvolvido de forma progressiva enquanto avanço do front-end para o back-end.
+Sistema de agendamento para barbearia com front-end interativo e API REST em ASP.NET Core.
 
-- **Front-end atual:** catálogo com quatro serviços, manipulação do DOM, formulário, resumo do agendamento e validações de nome, WhatsApp, datas e horários.
-- **API atual:** consulta de serviços e operações de criação, consulta, atualização e exclusão de agendamentos em memória, com validações e respostas HTTP.
+- **Front-end:** catálogo com quatro serviços, manipulação do DOM, formulário, resumo do agendamento e validações de nome, WhatsApp, datas e horários.
+- **API:** consulta de serviços e operações de criação, consulta, atualização e exclusão de agendamentos em memória, com validações e respostas HTTP.
 - **Próximo passo:** persistência com SQL/PostgreSQL e integração do formulário com a API.
 
-> O projeto ainda está em desenvolvimento e não utiliza banco de dados nem está publicado em produção.
+> O projeto está em desenvolvimento e ainda não utiliza banco de dados nem está publicado em produção.
 
 [Ver código e acompanhar a evolução →](https://github.com/Atorreszz/gueto-barbearia)
 
 ---
 
-## 🤝 Contato
+## 📊 Atividade no GitHub
+
+<p align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atorreszz&theme=github_dark" alt="Estatísticas do GitHub de Arthur Torres">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atorreszz&theme=github_dark" alt="Repositórios por linguagem de Arthur Torres">
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/8b949e/Atorreszz" width="100%" alt="Calendário de contribuições de Arthur Torres">
+</p>
+
+---
+
+## 🤝 Vamos conversar?
 
 <p align="center">
   <a href="https://github.com/Atorreszz">
@@ -108,14 +127,6 @@ Sistema de agendamento para uma barbearia, desenvolvido de forma progressiva enq
   </a>
 </p>
 
----
-
-## 📊 Atividade no GitHub
-
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atorreszz&theme=github_dark" alt="Estatísticas do GitHub de Arthur Torres">
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/8b949e/Atorreszz" width="100%" alt="Calendário de contribuições de Arthur Torres">
+  <samp>build • test • commit • repeat</samp>
 </p>
