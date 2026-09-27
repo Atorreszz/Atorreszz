@@ -1,0 +1,66 @@
+<svg width="420" height="460" viewBox="0 0 420 460" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Herói-morcego programando</title>
+  <desc id="desc">Ilustração vetorial monocromática de um vigilante inspirado no Batman usando um notebook.</desc>
+
+  <defs>
+    <linearGradient id="cape" x1="74" y1="120" x2="348" y2="388" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#30363D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <linearGradient id="armor" x1="210" y1="164" x2="210" y2="359" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#484F58"/>
+      <stop offset="1" stop-color="#161B22"/>
+    </linearGradient>
+    <linearGradient id="screen" x1="210" y1="320" x2="210" y2="430" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#21262D"/>
+      <stop offset="1" stop-color="#0D1117"/>
+    </linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
+      <feOffset dy="8" result="offset"/>
+      <feColorMatrix in="offset" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 .35 0"/>
+      <feBlend in="SourceGraphic"/>
+    </filter>
+  </defs>
+
+  <g opacity="0.32" fill="#8B949E">
+    <rect x="27" y="114" width="5" height="5" rx="1"/>
+    <rect x="42" y="99" width="4" height="4" rx="1"/>
+    <rect x="377" y="126" width="5" height="5" rx="1"/>
+    <rect x="361" y="108" width="4" height="4" rx="1"/>
+    <path d="M38 131H70M350 145H383" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
+  </g>
+
+  <ellipse cx="210" cy="429" rx="151" ry="17" fill="#010409" fill-opacity="0.45"/>
+
+  <g filter="url(#shadow)">
+    <path d="M141 142C101 164 78 205 75 260C73 303 59 340 36 379C82 366 112 370 137 397C153 375 174 373 196 403C206 383 226 383 240 405C263 377 286 376 307 397C324 371 350 365 383 378C358 337 346 298 345 252C344 204 319 166 278 143L141 142Z" fill="url(#cape)" stroke="#6E7681" stroke-width="3" stroke-linejoin="round"/>
+
+    <path d="M155 169C166 151 184 141 210 141C236 141 254 151 265 169L298 237L281 340H139L122 237L155 169Z" fill="url(#armor)" stroke="#8B949E" stroke-width="3"/>
+    <path d="M147 234L175 212M273 212L296 236M170 276H250" stroke="#6E7681" stroke-width="3" stroke-linecap="round"/>
+    <path d="M166 292L181 319M254 292L239 319" stroke="#30363D" stroke-width="8" stroke-linecap="round"/>
+
+    <path d="M151 100L158 36L190 70C202 65 218 65 230 70L262 36L269 100L260 139C251 165 232 181 210 181C188 181 169 165 160 139L151 100Z" fill="#0D1117" stroke="#8B949E" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M167 112C178 96 192 89 210 89C228 89 242 96 253 112L246 147C237 163 225 171 210 171C195 171 183 163 174 147L167 112Z" fill="#30363D"/>
+    <path d="M178 116L202 121L187 130L174 126L178 116ZM242 116L218 121L233 130L246 126L242 116Z" fill="#F0F6FC"/>
+    <path d="M201 151C207 155 213 155 219 151M194 161C204 167 216 167 226 161" stroke="#8B949E" stroke-width="2" stroke-linecap="round"/>
+
+    <path d="M180 212L196 216L210 202L224 216L240 212L234 224L243 231L223 230L210 244L197 230L177 231L186 224L180 212Z" fill="#B1BAC4"/>
+    <path d="M198 216L210 222L222 216L218 226L210 233L202 226L198 216Z" fill="#0D1117"/>
+
+    <path d="M142 308C151 292 168 286 181 295L198 315L177 337L146 329C136 326 134 316 142 308Z" fill="#484F58" stroke="#8B949E" stroke-width="3"/>
+    <path d="M278 308C269 292 252 286 239 295L222 315L243 337L274 329C284 326 286 316 278 308Z" fill="#484F58" stroke="#8B949E" stroke-width="3"/>
+
+    <path d="M112 315H308L290 421H130L112 315Z" fill="url(#screen)" stroke="#8B949E" stroke-width="4" stroke-linejoin="round"/>
+    <path d="M193 363L205 351M205 351L193 339M227 339L215 351L227 363" stroke="#B1BAC4" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M98 421H322L303 438H117L98 421Z" fill="#30363D" stroke="#8B949E" stroke-width="3" stroke-linejoin="round"/>
+    <path d="M187 427H233" stroke="#B1BAC4" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <g opacity="0.45" stroke="#8B949E" stroke-width="2" stroke-linecap="round">
+    <path d="M58 195H94L105 184"/>
+    <path d="M326 190H365"/>
+    <circle cx="53" cy="195" r="4" fill="#8B949E" stroke="none"/>
+    <circle cx="370" cy="190" r="4" fill="#8B949E" stroke="none"/>
+  </g>
+</svg>
