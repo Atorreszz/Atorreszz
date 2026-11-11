@@ -1,132 +1,104 @@
 <p align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Arthur Torres — Back-end C#/.NET, Python e bancos de dados">
+  <img src="./banner.png" alt="Torres" width="100%"/>
 </p>
 
-<h1 align="center">Olá, eu sou Arthur Torres 👋</h1>
+<h1 align="center">Fala, eu sou o Arthur Torres 👋</h1>
 
 <p align="center">
-  <strong>Back-end C#/.NET • APIs • Sistemas Web</strong>
-</p>
-
-<p align="center">
-  <samp>Código claro, projetos reais e evolução a cada commit.</samp>
+  <b>Back-end C# / .NET · APIs · Sistemas Web</b><br/>
+  Transformando regras de negócio em código limpo, e ideias em sistemas que funcionam.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/arthur-torress/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:arthurtorresat39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTATO-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-SEGUIR-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
 
-## 👨‍💻 Sobre mim
+## 🟣 Sobre mim
 
-<img align="right" width="285" src="./assets/batman-dev.svg" alt="Ilustração monocromática do Batman programando">
+Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento **back-end C#/.NET**: construção de APIs e organização de regras de negócio.
 
-Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento **back-end C#/.NET**, construção de APIs e organização de regras de negócio.
+Meu principal projeto é o **Gueto Barbearia**, um sistema de agendamento que une interface web e uma API em ASP.NET Core. Ele transforma um fluxo real, escolher serviço, data e horário, em código, validações e endpoints.
 
-Meu principal projeto é o **Gueto Barbearia**, um sistema de agendamento que reúne interface web e uma API em ASP.NET Core. O projeto transforma um fluxo real — escolher serviço, data e horário — em código, validações e endpoints.
+Também trabalho com **TypeScript, React, Node.js, JavaScript, SQL e PostgreSQL**, conectando o back-end a interfaces modernas.
 
-Também trabalho com **Python**, **JavaScript**, **SQL** e **PostgreSQL**, conectando cada tecnologia a uma parte prática do desenvolvimento.
+📍 Volta Redonda, RJ · 🎓 Sistemas de Informação
 
-### ⚡ Em foco
+---
 
-- 🔨 **Projeto:** [Gueto Barbearia](https://github.com/Atorreszz/gueto-barbearia)
-- ⚙️ **Back-end:** C#, ASP.NET Core Minimal APIs, Python, REST, HTTP e JSON
+## ⚡ Em foco
+
+- 🔭 **Projeto:** Gueto Barbearia
+- ⚙️ **Back-end:** C#, .NET, ASP.NET Core Minimal APIs, REST e JSON
 - 🗄️ **Dados:** SQL e PostgreSQL
 - 🎯 **Objetivo:** primeira oportunidade em desenvolvimento de software/back-end
 
-<br clear="right">
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+**Linguagens e frameworks**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs&theme=dark" />
+</p>
+
+**Front-end**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,ts&theme=dark" />
+</p>
+
+**Banco de dados**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+</p>
+
+**Ferramentas**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,rider,webstorm,postman&theme=dark" />
+</p>
 
 ---
 
-## 🧰 Tecnologias e ferramentas
+## 🚀 Projeto em destaque
 
-### Back-end
+### [Gueto Barbearia](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,py&theme=dark" alt="C#, .NET e Python">
-</p>
-
-C#, .NET 10, ASP.NET Core Minimal APIs, Python, REST, HTTP, JSON e Swagger/OpenAPI.
-
-### Front-end
-
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="HTML, CSS e JavaScript">
-</p>
-
-HTML, CSS e JavaScript com DOM, eventos, formulários e validações.
-
-### Banco de dados
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL">
-</p>
-
-SQL e PostgreSQL para modelagem e persistência dos dados do Gueto Barbearia.
-
-### Ferramentas
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,rider,webstorm&theme=dark" alt="Git, GitHub, Linux, VS Code, Visual Studio, Rider e WebStorm">
-</p>
-
-Git, GitHub, Linux, VS Code, Visual Studio, JetBrains Rider, WebStorm e testes de API com Swagger.
-
----
-
-## 🛠️ Projeto em destaque
-
-### [Gueto Barbearia](https://github.com/Atorreszz/gueto-barbearia)
-
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-30363D?style=flat-square)
-![Front-end](https://img.shields.io/badge/front--end-HTML%20%7C%20CSS%20%7C%20JavaScript-30363D?style=flat-square)
-![Back-end](https://img.shields.io/badge/back--end-C%23%20%7C%20ASP.NET%20Core-30363D?style=flat-square)
+![Em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-7c3aed?style=flat-square)
+![Front-end](https://img.shields.io/badge/front--end-HTML%20%7C%20CSS%20%7C%20JS-4c1d95?style=flat-square)
+![Back-end](https://img.shields.io/badge/back--end-C%23%20%7C%20ASP.NET%20Core-6d28d9?style=flat-square)
 
 Sistema de agendamento para barbearia com front-end interativo e API REST em ASP.NET Core.
 
-- **Front-end:** catálogo com quatro serviços, manipulação do DOM, formulário, resumo do agendamento e validações de nome, WhatsApp, datas e horários.
-- **API:** consulta de serviços e operações de criação, consulta, atualização e exclusão de agendamentos em memória, com validações e respostas HTTP.
-- **Próximo passo:** persistência com SQL/PostgreSQL e integração do formulário com a API.
-
-> O projeto está em desenvolvimento e ainda não utiliza banco de dados nem está publicado em produção.
-
-[Ver código e acompanhar a evolução →](https://github.com/Atorreszz/gueto-barbearia)
+- **Front-end:** catálogo com serviços, manipulação do DOM, formulário e resumo do agendamento
+- **API:** consulta de serviços e operações de criação, consulta, atualização e exclusão de agendamentos, com validações
+- **Próximo passo:** persistência com SQL/PostgreSQL e integração do formulário com a API
 
 ---
 
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Atorreszz&theme=github_dark" alt="Estatísticas do GitHub de Arthur Torres">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Atorreszz&theme=github_dark" alt="Repositórios por linguagem de Arthur Torres">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/8b949e/Atorreszz" width="100%" alt="Calendário de contribuições de Arthur Torres">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=midnight-purple&hide_border=true&background=0d0719" />
 </p>
 
 ---
 
-## 🤝 Vamos conversar?
+## 💬 Vamos conversar?
+
+Aberto a conversas sobre back-end, APIs e oportunidades de estágio ou primeiro emprego em tecnologia.
 
 <p align="center">
-  <a href="https://github.com/Atorreszz">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://www.linkedin.com/in/arthur-torress/">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:arthurtorresat39@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail">
-  </a>
-</p>
-
-<p align="center">
-  <samp>build • test • commit • repeat</samp>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
 </p>
