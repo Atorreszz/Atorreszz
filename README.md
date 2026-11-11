@@ -10,9 +10,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:SEU-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTATO-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.instagram.com/SEU-INSTAGRAM"><img src="https://img.shields.io/badge/INSTAGRAM-SEGUIR-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/arthur-torress/"><img src="https://img.shields.io/badge/LINKEDIN-CONECTAR-7c3aed?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:arthurtorres.dev@hotmail.com"><img src="https://img.shields.io/badge/GMAIL-CONTATO-4c1d95?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/ogtorresz/"><img src="https://img.shields.io/badge/INSTAGRAM-SEGUIR-6d28d9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 ---
