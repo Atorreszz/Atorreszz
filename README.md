@@ -5,8 +5,7 @@
 <h1 align="center">Fala, eu sou o Arthur Torres 👋</h1>
 
 <p align="center">
-  <b>Back-end C# / .NET · APIs · Sistemas Web</b><br/>
-  Transformando regras de negócio em código limpo, e ideias em sistemas que funcionam.
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+back-end+C%23+%2F+.NET;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Transformo+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Digitando..." />
 </p>
 
 <p align="center">
@@ -19,85 +18,82 @@
 
 ## 🟣 Sobre mim
 
-Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento **back-end C#/.NET**: construção de APIs e organização de regras de negócio.
+Sou estudante de **Sistemas de Informação**, com foco em desenvolvimento **back-end com C# e .NET**: construção de APIs, organização de regras de negócio e código que continua fácil de manter com o tempo.
 
-Meu principal projeto é o **Gueto Barbearia**, um sistema de agendamento que une interface web e uma API em ASP.NET Core. Ele transforma um fluxo real, escolher serviço, data e horário, em código, validações e endpoints.
+Gosto de pegar um problema do mundo real e transformá-lo em um sistema que funciona de ponta a ponta, do banco de dados até a tela. Por isso também trabalho com **TypeScript, React e Node.js**, para conectar o back-end a interfaces modernas.
 
-Também trabalho com **TypeScript, React, Node.js, JavaScript, SQL e PostgreSQL**, conectando o back-end a interfaces modernas.
-
-📍 Volta Redonda, RJ · 🎓 Sistemas de Informação
+📍 Volta Redonda, RJ &nbsp;·&nbsp; 🎓 Sistemas de Informação
 
 ---
 
-## ⚡ Em foco
+## 🧠 Como eu trabalho
 
-- 🔭 **Projeto:** Gueto Barbearia
-- ⚙️ **Back-end:** C#, .NET, ASP.NET Core Minimal APIs, REST e JSON
-- 🗄️ **Dados:** SQL e PostgreSQL
-- 🎯 **Objetivo:** primeira oportunidade em desenvolvimento de software/back-end
+- 🧹 **Código limpo:** nomes claros, funções pequenas e responsabilidades bem separadas
+- 🧩 **Regras de negócio primeiro:** entender o problema antes de escrever a primeira linha
+- ✅ **Validação e tratamento de erros:** uma API boa responde bem até quando o uso está errado
+- 📚 **Aprender fazendo:** cada ideia vira projeto, e cada projeto vira aprendizado
+- 🔁 **Versionamento com Git:** commits pequenos e com mensagens que explicam o porquê
 
 ---
 
 ## 🛠️ Tecnologias e ferramentas
 
-**Linguagens e frameworks**
+**Back-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,react,nodejs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,swagger&theme=dark" />
 </p>
 
 **Front-end**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,ts&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" />
 </p>
 
 **Banco de dados**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres&theme=dark" />
 </p>
 
 **Ferramentas**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,rider,webstorm,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,visualstudio,rider,webstorm&theme=dark" />
 </p>
 
 ---
 
 ## 🚀 Projeto em destaque
 
-### [Gueto Barbearia](https://github.com/SEU-USUARIO/SEU-REPOSITORIO)
+### [Gueto Barbearia](https://github.com/Atorreszz/gueto-barbearia)
 
-![Em desenvolvimento](https://img.shields.io/badge/status-em%20desenvolvimento-7c3aed?style=flat-square)
 ![Front-end](https://img.shields.io/badge/front--end-HTML%20%7C%20CSS%20%7C%20JS-4c1d95?style=flat-square)
 ![Back-end](https://img.shields.io/badge/back--end-C%23%20%7C%20ASP.NET%20Core-6d28d9?style=flat-square)
 
-Sistema de agendamento para barbearia com front-end interativo e API REST em ASP.NET Core.
+Sistema de agendamento para barbearia, com front-end interativo e API REST em ASP.NET Core.
 
-- **Front-end:** catálogo com serviços, manipulação do DOM, formulário e resumo do agendamento
-- **API:** consulta de serviços e operações de criação, consulta, atualização e exclusão de agendamentos, com validações
-- **Próximo passo:** persistência com SQL/PostgreSQL e integração do formulário com a API
+- **Front-end:** catálogo de serviços, formulário de agendamento e resumo do pedido
+- **API:** criação, consulta, atualização e exclusão de agendamentos, com validações de nome, WhatsApp, data e horário
 
 ---
 
 ## 📊 Atividade no GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atorreszz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0719&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtorreszO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=midnight-purple&hide_border=true&background=0d0719" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atorresz&bg_color=0d0719&color=a78bfa&line=7c3aed&point=ddd6fe&area=true&area_color=6d28d9&hide_border=true" width="95%" />
 </p>
 
 ---
 
 ## 💬 Vamos conversar?
 
-Aberto a conversas sobre back-end, APIs e oportunidades de estágio ou primeiro emprego em tecnologia.
+Adoro conversar sobre tecnologia, podemos aprender juntos.
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=100&section=footer"/>
