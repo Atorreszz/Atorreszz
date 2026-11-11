@@ -5,7 +5,7 @@
 <h1 align="center">Fala, eu sou o Arthur Torres 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+back-end+C%23+%2F+.NET;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Transformo+regras+de+neg%C3%B3cio+em+c%C3%B3digo" alt="Digitando..." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1500&color=A78BFA&center=true&vCenter=true&width=600&lines=Desenvolvedor+back-end+C%23+%2F+.NET;Estudante+de+Sistemas+de+Informa%C3%A7%C3%A3o;Fazendo+o+C%23+rodar+na+base+da+f%C3%A9" alt="Digitando..." />
 </p>
 
 <p align="center">
