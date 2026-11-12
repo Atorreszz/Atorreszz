@@ -82,11 +82,11 @@ Sistema de agendamento para barbearia, com front-end interativo e API REST em AS
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=Atorreszz&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0719&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtorreszO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtorreszzO&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0719" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atorresz&bg_color=0d0719&color=a78bfa&line=7c3aed&point=ddd6fe&area=true&area_color=6d28d9&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Atorreszz&bg_color=0d0719&color=a78bfa&line=7c3aed&point=ddd6fe&area=true&area_color=6d28d9&hide_border=true" width="95%" />
 </p>
 
 ---
